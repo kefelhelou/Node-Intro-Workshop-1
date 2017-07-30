@@ -139,7 +139,8 @@ We now have everything we need to start writing Node code in this repo and creat
 
 The next part of this tutorial will be done as a code along.
 
-#How we did it in class
+# How we did it in class
+
 1. clone the repo;
 2. initialise JSON using `npm init` in terminal;
 3. create 2 other files which are (handlers.js and router.js in scr folder).
