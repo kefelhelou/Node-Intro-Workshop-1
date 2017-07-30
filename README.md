@@ -1,4 +1,4 @@
-# Node-Intro-Workshop
+# Node-Intro-Workshop (The solution and steps in the buttom of readme, the code in files)
 
 **Author**: [@bradreeder](https://github.com/bradreeder)  
 
@@ -139,7 +139,7 @@ We now have everything we need to start writing Node code in this repo and creat
 
 The next part of this tutorial will be done as a code along.
 
-# How we did it in class
+# How we did it in class:
 
 1. clone the repo;
 2. initialise JSON using `npm init` in terminal;
