@@ -138,3 +138,11 @@ note: use global module installations sparingly and only for development purpose
 We now have everything we need to start writing Node code in this repo and create our first http server!
 
 The next part of this tutorial will be done as a code along.
+
+#How we did it in class
+1. clone the repo;
+2. initialise JSON using `npm init` in terminal;
+3. create 2 other files which are (handlers.js and router.js in scr folder).
+4. Run the server in terminal `node src/server.js`
+5. Try to follow the steps, I am sorry if I forget any thing.
+6. Always Check your spelling if any problem occurs.
